@@ -1,7 +1,6 @@
 # Program, to calculate the circumference of the circle
 
 import math
-from math import floor
 
 radius = float(input("Enter the radius of the circle : "))
 circumference = 2 * math.pi * radius
